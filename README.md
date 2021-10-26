@@ -10,7 +10,7 @@ This repository contains all the wallpapers used by <a href="https://wallux-0/Wa
 
 Read <a href="https://github.com/Wallux-0/Wallux#readme"> this </a> for information about usage and contribution.
 
-## Wallpapers for GNOME, KDE and XFCE
+## Beautiful Wallpapers, Curated.
 
 A collection of beautiful wallpapers. That's it. As simple as that!
 
